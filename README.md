@@ -18,3 +18,4 @@
 - Eduardo Marçal Oliveira : 20142014040396
 - Matheus Varela Pinheiro : 20142014040167
 - Hayssa Hackradt Saraiva da Costa : 20142014040035
+- Carolina Alessandra Nóbrega de Araújo : 20142014040140
