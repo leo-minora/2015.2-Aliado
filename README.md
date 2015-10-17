@@ -23,3 +23,4 @@
 - Armando Soares Viana Junior : 20121014040318
 - Josafá Romão Rebouças Rodrigues : 20142014040213
 - Helenita Maciel Gurgel : 20131014040536
+- Luiz Claudio Lopes Rocha : 20142014040248
