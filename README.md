@@ -1,4 +1,4 @@
-# 2015.2-Aliado
+﻿# 2015.2-Aliado
 
 ## Professor
 - Leonardo Ataide Minora : 2422958
@@ -24,3 +24,4 @@
 - Josafá Romão Rebouças Rodrigues : 20142014040213
 - Helenita Maciel Gurgel : 20131014040536
 - Luiz Claudio Lopes Rocha : 20142014040248
+- Rafael Duarte de Lima : 20142014040175
