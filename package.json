@@ -1,0 +1,23 @@
+{
+  "name": "aliado",
+  "version": "1.0.0",
+  "description": "Jogo aliado",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leo-minora/2015.2-Aliado.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/leo-minora/2015.2-Aliado/issues"
+  },
+  "homepage": "https://github.com/leo-minora/2015.2-Aliado#readme",
+  "dependencies": {
+    "express": "^4.13.4",
+    "express-load": "^1.1.15"
+  }
+}
