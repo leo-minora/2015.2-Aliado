@@ -2,8 +2,9 @@
 
 module.exports = function(app) {
     var controller = {};
-    
+
     var Dado = require("../models/dado");
+
     var dado1 = new Dado();
     var dado2 = new Dado();
 

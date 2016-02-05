@@ -8,10 +8,15 @@ module.exports = function() {
 
     app.port = 3000;
 
-    // load('models', {cwd: 'app'})
-    //     .then('controllers')
-    //     .then('routes')
-    //     .into(app);
+    app.use(function (req, res, next) {
+        // habilitando o CORS
+        // problema que esta disponível a todos os sites
+        res.header("Access-Control-Allow-Origin", "*");
+        res.header("Access-Control-Allow-Headers", "Origin, X-Requested-With, Content-Type, Accept");
+
+        next();
+    });
+
     load('controllers', {cwd: 'app'})
         .then('routes')
         .into(app);
